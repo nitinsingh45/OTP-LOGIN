@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210318065417",
+    "project_id": "otplogin-de1e7",
+    "storage_bucket": "otplogin-de1e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210318065417:android:9f93365c0f8e6bbaf31dd8",
+        "android_client_info": {
+          "package_name": "com.example.otplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbaTdmAxH2hwJ5TJJRaMUvcPRzw65aJdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
